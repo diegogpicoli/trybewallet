@@ -1,0 +1,14 @@
+.table {
+  align-items: center;
+  background-color: white;
+}
+
+table {
+  width: 100%;
+}
+
+.divTable {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,26 @@
+.divHeader {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.divHeader img {
+  height: 50px;
+  margin: 10px;
+  width: 50px;
+}
+
+.divHeader2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.divHeader2 p {
+  height: 0;
+  margin-bottom: 1px;
+  margin-right: 50px;
+}
+
